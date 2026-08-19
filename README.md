@@ -165,7 +165,7 @@ https://github.com/user-attachments/assets/4365ea0e-4dbd-449f-8a30-6e5c7962005a
 
 <h2 id="development-configuration-diagram">開発構成図</h2>
 
-[開発構成図](https://dendedev.github.io/portfolio-development-configuration-diagram/)はHTMLインフォグラフィックで表現しました。
+[開発構成図](https://mirinodev.github.io/portfolio-development-configuration-diagram/)はHTMLインフォグラフィックで表現しました。
 
 <h2 id="directory-design">ディレクトリ構造</h2>
 

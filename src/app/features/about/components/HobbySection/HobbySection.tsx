@@ -28,7 +28,7 @@ const HobbySection = () => {
               </em>
               と考え、
               <a
-                href="https://github.com/dendedev/outputquest"
+                href="https://github.com/mirinodev/outputquest"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles["about-product-link"]}
