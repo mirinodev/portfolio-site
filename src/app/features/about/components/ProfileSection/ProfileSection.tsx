@@ -37,7 +37,7 @@ const ProfileSection = () => {
             <div className={styles["about-profile-info"]}>
               <ProfileItem label="Birthday" value="1999 / 07 / 10" />
               <ProfileItem label="Name" value="Kaishu Aoyama" />
-              <ProfileItem label="Nickname" value="Dende" />
+              <ProfileItem label="Nickname" value="Mirino" />
             </div>
           </dl>
         </div>
@@ -49,11 +49,11 @@ const ProfileSection = () => {
         <div className={styles["about-sns-content"]}>
           <ul className={styles["about-sns-list"]}>
             <SnsItem
-              href="https://github.com/dendedev"
+              href="https://github.com/mirinodev"
               logo="/images/about/sns/github-logo.svg"
               name="GitHub"
             />
-            <SnsItem href="https://x.com/dendedev" logo="/images/about/sns/x-logo.svg" name="X" />
+            <SnsItem href="https://x.com/mirinodev" logo="/images/about/sns/x-logo.svg" name="X" />
             <SnsItem
               href="https://zenn.dev/camoneart"
               logo="/images/about/sns/zenn-logo.svg"

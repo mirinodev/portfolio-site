@@ -52,7 +52,7 @@ export default function Header() {
             onClick={() => isOpen && toggleMenu()}
           >
             <span className={`${styles["text-gradient"]} ${styles["rotate-text01"]}`}>kaishu</span>
-            <span className={`${styles["text-gradient"]} ${styles["rotate-text02"]}`}>dende</span>
+            <span className={`${styles["text-gradient"]} ${styles["rotate-text02"]}`}>mirino</span>
           </Link>
         </div>
         <div className={styles["header__items"]}>

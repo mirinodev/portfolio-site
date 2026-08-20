@@ -171,12 +171,12 @@ export const worksData: WorksData[] = [
     detail12:
       "　`.maestro.json`でプロジェクトごとに挙動をカスタマイズ可能です。worktreeの保存先、自動セットアップコマンド、同期ファイル、ライフサイクルフック、tmux/GitHub/Claude連携などの柔軟な設定に加え、`postCreate`フックで環境構築の自動化が可能です。",
     detail13:
-      "　必要なのはNode.js 20以上のみです。`brew install dendedev/tap/maestro`または`npm install -g @camoneart/maestro`または`pnpm add -g @camoneart/maestro`ですぐにインストールできます。",
+      "　必要なのはNode.js 20以上のみです。`brew install mirinodev/tap/maestro`または`npm install -g @camoneart/maestro`または`pnpm add -g @camoneart/maestro`ですぐにインストールできます。",
     accessDescription: "",
     labels: [{ no: "Card No.", value: "003/003" }],
     skillsList:
       "TypeScript, commander, simple-git, execa, inquirer, chalk, ora, zod, cli-progress, chokidar, conf, p-limit, open, modelcontextprotocol/sdk, tsup, vitest",
-    siteUrl: "https://github.com/dendedev/maestro",
+    siteUrl: "https://github.com/mirinodev/maestro",
     role: "Design, Coding",
     viewTransitionName: "view-transition-title-work-3",
     viewTransitionImage: "view-transition-img-work-3",
