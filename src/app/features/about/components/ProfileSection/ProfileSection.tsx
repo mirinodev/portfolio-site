@@ -26,7 +26,7 @@ const ProfileSection = () => {
               className={styles["about-profile-img-box"]}
             >
               <Image
-                src="/images/about/profile/profile-img.jpg"
+                src="/images/about/profile/profile-img.png"
                 alt="プロフィール画像"
                 width={170}
                 height={170}
