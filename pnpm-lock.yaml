@@ -27,7 +27,7 @@ importers:
         version: 2.1.2(gsap@3.14.2)(react@19.2.8)
       '@hookform/resolvers':
         specifier: 5.2.2
-        version: 5.2.2(react-hook-form@7.74.0(react@19.2.8))
+        version: 5.2.2(react-hook-form@7.88.0(react@19.2.8))
       '@radix-ui/react-dialog':
         specifier: 1.1.23
         version: 1.1.23(@types/react-dom@19.2.4(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
@@ -95,8 +95,8 @@ importers:
         specifier: 19.2.8
         version: 19.2.8(react@19.2.8)
       react-hook-form:
-        specifier: 7.74.0
-        version: 7.74.0(react@19.2.8)
+        specifier: 7.88.0
+        version: 7.88.0(react@19.2.8)
       react-hot-toast:
         specifier: 2.6.0
         version: 2.6.0(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
@@ -2848,8 +2848,8 @@ packages:
     peerDependencies:
       react: ^19.2.8
 
-  react-hook-form@7.74.0:
-    resolution: {integrity: sha512-yR6wHr99p9wFv686jhRWVSFhUvDvNbdUf2dKlbno8/VKOCuoNobDGC6S+M2dua9A9Yo8vpcrp8assIYbsZCQ9g==}
+  react-hook-form@7.88.0:
+    resolution: {integrity: sha512-QRaLOWhX93YCnMiRfnOFRSwWXZNt8qhm2JTZwypoDvKpSffTJHmpzMXt8U6PV5UThvL3IiiLDUWe2nHMtz6Mmw==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
       react: ^16.8.0 || ^17 || ^18 || ^19
@@ -3672,10 +3672,10 @@ snapshots:
       gsap: 3.14.2
       react: 19.2.8
 
-  '@hookform/resolvers@5.2.2(react-hook-form@7.74.0(react@19.2.8))':
+  '@hookform/resolvers@5.2.2(react-hook-form@7.88.0(react@19.2.8))':
     dependencies:
       '@standard-schema/utils': 0.3.0
-      react-hook-form: 7.74.0(react@19.2.8)
+      react-hook-form: 7.88.0(react@19.2.8)
 
   '@humanfs/core@0.19.2':
     dependencies:
@@ -6418,7 +6418,7 @@ snapshots:
       react: 19.2.8
       scheduler: 0.27.0
 
-  react-hook-form@7.74.0(react@19.2.8):
+  react-hook-form@7.88.0(react@19.2.8):
     dependencies:
       react: 19.2.8
 
