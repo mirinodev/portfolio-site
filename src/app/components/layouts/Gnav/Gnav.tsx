@@ -53,13 +53,6 @@ const Gnav = ({ isOpen, toggleMenu }: GnavProps) => {
         >
           {renderNavItem("/works" as Route, "Works")}
         </li>
-        <li
-          className={`md:sticky md:inset-0 ${styles["gnav__item"]} ${
-            isOpen ? styles["gnav__item--open"] : ""
-          }`}
-        >
-          {renderNavItem("/contact" as Route, "Contact")}
-        </li>
       </ul>
     </nav>
   );
