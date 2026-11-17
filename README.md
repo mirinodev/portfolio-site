@@ -50,12 +50,6 @@ https://github.com/user-attachments/assets/60280b8e-db91-4df9-8b33-6ce0e8963128
 
 https://github.com/user-attachments/assets/47f42f0a-b1ee-40f3-9cfc-a69fe47fa037
 
-### **お問い合わせページ**
-
-お問い合わせフォームは「React Hook Form」でパフォーマンスを最適化し、「Zod」による入力値検証（バリデーション）で堅牢性を高めています。メール送信機能には「Resend」を利用しています。
-
-https://github.com/user-attachments/assets/4365ea0e-4dbd-449f-8a30-6e5c7962005a
-
 <h2 id="feature-introduction">機能紹介</h2>
 
 ### **アニメーション機能**
@@ -108,14 +102,9 @@ https://github.com/user-attachments/assets/4365ea0e-4dbd-449f-8a30-6e5c7962005a
   - レスポンシブ対応。全デバイスで最適な表示を実現
   - ハンバーガーメニューやタッチ操作に最適化されたUIコンポーネント
 
-- **フォームバリデーション**
-  - React Hook FormとZodによる堅牢な入力値検証システム
-  - リアルタイムエラー表示で、ユーザーが迷わない親切な設計
-  - Resend APIとの連携による確実なメール送信機能
-
 <h2 id="technology-used">使用技術</h2>
 
-<img src="https://img.shields.io/badge/-node.js-444.svg?logo=node.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-pnpm-444.svg?logo=pnpm&style=for-the-badge"> <img src="https://img.shields.io/badge/-next.js-444.svg?logo=next.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-react-444.svg?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/-TypeScript-444.svg?logo=TypeScript&style=for-the-badge"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-444.svg?logo=Tailwind%20CSS&style=for-the-badge"> <img src="https://img.shields.io/badge/-shadcn/ui-444.svg?logo=shadcn/ui&style=for-the-badge"> <img src="https://img.shields.io/badge/-GSAP-444.svg?logo=GSAP&style=for-the-badge"> <img src="https://img.shields.io/badge/-Motion-444.svg?logo=Motion&style=for-the-badge"> <img src="https://img.shields.io/badge/-View%20Transitions%20API-444.svg?logo=View%20Transitions%20API&style=for-the-badge"> <img src="https://img.shields.io/badge/-Three.js-444.svg?logo=Three.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-React%20Three%20Fiber-444.svg?logo=React%20Three%20Fiber&style=for-the-badge"> <img src="https://img.shields.io/badge/-Drei-444.svg?logo=Drei&style=for-the-badge"> <img src="https://img.shields.io/badge/-React%20Spring-444.svg?logo=React%20Spring&style=for-the-badge"> <img src="https://img.shields.io/badge/-Howler.js-444.svg?logo=Howler.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-React%20Hook%20Form-444.svg?logo=React%20Hook%20Form&style=for-the-badge"> <img src="https://img.shields.io/badge/-Zod-444.svg?logo=Zod&style=for-the-badge"> <img src="https://img.shields.io/badge/-Resend-444.svg?logo=Resend&style=for-the-badge"> <img src="https://img.shields.io/badge/-Vercel-444.svg?logo=Vercel&style=for-the-badge">
+<img src="https://img.shields.io/badge/-node.js-444.svg?logo=node.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-pnpm-444.svg?logo=pnpm&style=for-the-badge"> <img src="https://img.shields.io/badge/-next.js-444.svg?logo=next.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-react-444.svg?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/-TypeScript-444.svg?logo=TypeScript&style=for-the-badge"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-444.svg?logo=Tailwind%20CSS&style=for-the-badge"> <img src="https://img.shields.io/badge/-shadcn/ui-444.svg?logo=shadcn/ui&style=for-the-badge"> <img src="https://img.shields.io/badge/-GSAP-444.svg?logo=GSAP&style=for-the-badge"> <img src="https://img.shields.io/badge/-Motion-444.svg?logo=Motion&style=for-the-badge"> <img src="https://img.shields.io/badge/-View%20Transitions%20API-444.svg?logo=View%20Transitions%20API&style=for-the-badge"> <img src="https://img.shields.io/badge/-Three.js-444.svg?logo=Three.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-React%20Three%20Fiber-444.svg?logo=React%20Three%20Fiber&style=for-the-badge"> <img src="https://img.shields.io/badge/-Drei-444.svg?logo=Drei&style=for-the-badge"> <img src="https://img.shields.io/badge/-React%20Spring-444.svg?logo=React%20Spring&style=for-the-badge"> <img src="https://img.shields.io/badge/-Howler.js-444.svg?logo=Howler.js&style=for-the-badge"> <img src="https://img.shields.io/badge/-Vercel-444.svg?logo=Vercel&style=for-the-badge">
 
 ### nodeバージョン
 
@@ -150,15 +139,6 @@ https://github.com/user-attachments/assets/4365ea0e-4dbd-449f-8a30-6e5c7962005a
 
 - [Howler.js](https://howlerjs.com/)：v2.2.4
 
-### フォーム・スキーマバリデーション
-
-- [React Hook Form](https://react-hook-form.com/)：v7.74.0（フォーム）
-- [Zod](https://zod.dev/)：v4.3.6（スキーマバリデーション）
-
-### メール送信サービス
-
-- [Resend](https://resend.com/docs/introduction)：v6.7.0
-
 ### ホスティング
 
 - [Vercel](https://vercel.com/)
@@ -181,8 +161,6 @@ portfolio/
 ├── src/
 │   ├── app/                        # ルートディレクトリ（ルーティング管理）
 │   │   ├── about/                  # アバウトページ
-│   │   ├── api/                    # API Routes
-│   │   │   └── send/               # メール送信用APIエンドポイント
 │   │   ├── components/             # 共通コンポーネント
 │   │   │   ├── 3D/                 # 3Dコンテンツ
 │   │   │   ├── Animation/          # アニメーション
@@ -190,13 +168,9 @@ portfolio/
 │   │   │   ├── elements/           # 基本的なUI要素
 │   │   │   ├── layouts/            # レイアウトコンポーネント
 │   │   │   └── MouseStalker/       # マウスストーカー
-│   │   ├── contact/                # お問い合わせページ
 │   │   ├── features/               # componentsでは共通化が難しい、特定の機能やドメイン固有のコンポーネントを管理
 │   │   │   ├── about/              # アバウトページ機能
 │   │   │   │   └── components/     # アバウト用コンポーネント
-│   │   │   ├── contact/            # お問い合わせページ機能
-│   │   │   │   ├── components/     # コンタクト用コンポーネント
-│   │   │   │   └── hooks/          # コンタクト用カスタムフック
 │   │   │   ├── skills/             # スキル一覧ページ機能
 │   │   │   │   ├── components/     # スキル用コンポーネント
 │   │   │   │   ├── data/           # スキルデータ
